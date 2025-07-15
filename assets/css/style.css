@@ -1,0 +1,174 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	background: #eeeeee;
+	font-family: Arial;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+.container {
+	background: #e4f9f5; 
+	width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #11999e;
+	line-height: 30px;
+}
+
+p, li {
+	line-height: 25px;
+}
+
+a {
+	text-decoration: none;
+	color: #11999e;
+}
+
+
+
+/*==============================
+         Header Section
+==============================*/
+
+.profile-img {
+	height: 100px;
+	width: 100px;
+	border: 3px solid #dbdbdb;
+	border-radius: 50%;
+	float: left;
+}
+
+.header-bio {
+	float: left;
+	padding: 25px;
+}
+
+.header-contact {
+	float: right;
+	padding: 20px;
+}
+.header-contact a {
+	text-decoration: none;
+	color: #11999e;
+	font-size: 20px;
+}
+
+
+hr {
+	border: 3px solid #000;
+	border-bottom: none;
+	margin: 20px auto;
+	width: 100%;
+}
+
+
+
+/*==============================
+       Clear Div Element
+==============================*/
+
+.clear-div {
+	clear: both;
+} 
+
+.common-hr {
+	border: 1px solid #000;
+	border-bottom: none;
+	margin: 20px auto;
+	width: 100%;
+}
+
+
+
+/*==============================
+  Personal Information Section
+==============================*/
+
+.left-div {
+	width: 30%;
+	float: left;
+}
+
+.right-div {
+	width: 70%;
+	float: right;
+}
+
+.bold {
+	font-weight: 550;
+}
+
+
+
+/*==============================
+      Key Skikk Section
+==============================*/
+
+.right-div ul li {
+	margin-left: 10px;
+}
+
+
+
+/*==============================
+       Education Section
+==============================*/
+
+#education a {
+	text-decoration: none;
+	color: #000;
+}
+
+.education-template-left {
+	float: left;
+	width: 50%;
+}
+
+.education-template-right {
+	float: right;
+	width: 50%;
+}
+
+
+
+/*==============================
+       Reference Section
+==============================*/
+
+
+#reference a {
+	text-decoration: none;
+	color: #000;
+}
+
+
+
+/*==============================
+         Footer Section
+==============================*/
+
+footer {
+	background: #000;
+	text-align: center;
+	padding: 20px;
+}
+
+footer a {
+	color: #fff;
+	text-decoration: none;
+	margin: 10px;
+}
+
+footer p {
+	color: #fff;
+	margin-top: 10px;
+}
