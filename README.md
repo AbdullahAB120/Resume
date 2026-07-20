@@ -26,16 +26,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project about resume. I designed this project for practise purpose when I am learning CSS after HTML completetion. So in this project I used just HTML & CSS. However here's GUI Information had updated regularly. So you can estimate me in this resume. Thank you for visiting my resume...!
+A clean and professional resume/CV website built using HTML5 and CSS3. This project was created during my early web development learning journey to practice semantic HTML, CSS styling, and structured page layouts.
 
 
-In this resume, I described :
-* Personal Information
-* Work Experience
-* Key Skill 
-* Education Information
-* Honors & Awards
-* Reference
+### Features:
+- Built with HTML5 & CSS3
+- Professional Resume Layout
+- Personal Information Section
+- Skills & Experience Sections
+- Clean & Minimal Design
+- Well-Structured HTML
+- Desktop-Optimized Layout
+
+
+This beginner-level project helped me strengthen my understanding of HTML structure, CSS styling, and professional page design. The primary focus was on creating a clean and organized resume layout for desktop viewing using only HTML and CSS. Although it is not responsive, it reflects my early learning process and my foundation in front-end web development.
 
 
 
